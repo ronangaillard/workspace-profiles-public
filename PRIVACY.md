@@ -8,11 +8,11 @@ Your privacy is important to us. This privacy policy explains what information W
 
 Workspace Profiles is designed with your privacy as a top priority.
 
-    No Internet Connection: The application does not connect to the internet. It cannot and does not send any data to us or any third party.
+**No Internet Connection:** The application does not connect to the internet. It cannot and does not send any data to us or any third party.
 
-    No User Data is Collected: We do not collect, store, track, or transmit any personal information or data about your usage. The app does not include any analytics, user tracking, or advertising frameworks.
+**No User Data is Collected:** We do not collect, store, track, or transmit any personal information or data about your usage. The app does not include any analytics, user tracking, or advertising frameworks.
 
-    Local Storage Only: All data created by the app, such as your saved profiles, trigger configurations, and settings, is stored exclusively on your local Mac. This data never leaves your device and is entirely under your control. You can delete this data at any time by uninstalling the application.
+**Local Storage Only:** All data created by the app, such as your saved profiles, trigger configurations, and settings, is stored exclusively on your local Mac. This data never leaves your device and is entirely under your control. You can delete this data at any time by uninstalling the application.
 
 ## Permissions
 
