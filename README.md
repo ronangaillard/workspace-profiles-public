@@ -58,15 +58,19 @@ Setting up your first automated profile is easy:
 ## Frequently Asked Questions (FAQ)
 
 *Q: The app isn't switching automatically when I plug in my monitor.*
+
 A: An automatic switch only happens if you have created a Trigger. A Profile by itself will only work for manual or hotkey switching. Please make sure you have created a trigger in the "Triggers" tab that links your specific device to a profile.
 
 *Q: Can the app turn off my external monitor?*
+
 A: No. The app manages display arrangements (which screen is primary, and whether they are extended or mirrored). It does not have the ability to turn off the power or video signal to a monitor, as this is a function controlled deeply by macOS.
 
 *Q: My audio device or display is not appearing in the settings.*
+
 A: Please ensure your device is fully connected and recognized by macOS before opening the profile configuration window. If it's a Bluetooth device, make sure it is paired and active.
 
 *Q: How do I update the app?*
+
 A: All updates are managed directly through the Mac App Store. Simply open the App Store, go to the "Updates" section, and update the app if a new version is available.
 
 ## Bug Reports & Feature Requests
