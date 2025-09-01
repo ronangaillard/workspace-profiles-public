@@ -75,13 +75,13 @@ Your feedback is invaluable! The best way to report a bug or request a new featu
 
 When reporting a bug, please include the following information to help us resolve it faster:
 
-    * The version of Workspace Profiles you are using.
+* The version of Workspace Profiles you are using.
 
-    * The version of macOS you are running (e.g., Sonoma 14.5).
+* The version of macOS you are running (e.g., Sonoma 14.5).
 
-    * A clear description of the problem and the steps to reproduce it.
+* A clear description of the problem and the steps to reproduce it.
 
-    * ny relevant screenshots or screen recordings.
+* Any relevant screenshots or screen recordings.
 
 ## Contact
 
